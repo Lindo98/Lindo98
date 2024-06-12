@@ -1,4 +1,4 @@
-#👋 Hello, my name is Lindokuhle Mtengwane!
+# 👋 Hello, my name is Lindokuhle Mtengwane!
 
 🎨 As a seasoned UI/UX designer and passionate Software Developer, I bring a unique blend of creativity and technical expertise to the digital realm. With 1 year of experience in crafting delightful user experiences, I thrive on transforming complex ideas into intuitive and visually appealing interfaces.
 
