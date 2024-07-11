@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Lindokuhle Mtengwane!
 
-🎨 As a seasoned UI/UX designer and passionate Software Developer, I bring a unique blend of creativity and technical expertise to the digital realm. With 1 year of experience in crafting delightful user experiences, I thrive on transforming complex ideas into intuitive and visually appealing interfaces.
+🎨 As a passionate Software Developer, I bring a unique blend of creativity and technical expertise to the digital realm. With 1 year of experience in crafting delightful user experiences, I thrive on transforming complex ideas into intuitive and visually appealing interfaces.
 
 💻 My journey in Software Development has equipped me with a diverse skill set, allowing me to bridge the gap between design and implementation seamlessly. Whether it's building responsive web applications solutions, I enjoy the challenge of bringing concepts to life through code.
 
